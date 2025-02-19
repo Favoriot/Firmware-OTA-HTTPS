@@ -3,5 +3,6 @@ OTA using ESP32
 
 Open the code using arduino IDE
 1. Build bin file using arduino IDE
-   
-![image](https://github.com/user-attachments/assets/e27edbc5-5494-40b5-87a9-8199e2235678)
+
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/1cdf4fb4-4c07-4601-9676-4a7edbe03f98" />
+
