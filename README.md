@@ -18,3 +18,6 @@ OTA using ESP32
 ### 4. Build the BIN file  
 
 ![Build BIN File](https://github.com/user-attachments/assets/1cdf4fb4-4c07-4601-9676-4a7edbe03f98)  
+
+### 5. Upload the BIN file in Favoriot Platform
+
