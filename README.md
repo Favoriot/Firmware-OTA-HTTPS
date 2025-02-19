@@ -13,7 +13,7 @@ OTA using ESP32
 
 ### 3. Upload the code in ESP32 board  
 
-![Upload code]=(https://github.com/user-attachments/assets/a0033197-b2eb-4ea5-b669-3bf8a6ddd9c6)
+![Upload code](https://github.com/user-attachments/assets/a0033197-b2eb-4ea5-b669-3bf8a6ddd9c6)
 
 ### 4. Build the BIN file  
 
